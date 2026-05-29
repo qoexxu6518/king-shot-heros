@@ -1,0 +1,176 @@
+{
+  "charles": {
+    "gearName": "Justice Fist",
+    "gearIcon": null,
+    "stats": [
+      {
+        "label": "Power",
+        "value": "722,250"
+      },
+      {
+        "label": "Hero Attack",
+        "value": "1,107"
+      },
+      {
+        "label": "Hero Defense",
+        "value": "1,444"
+      },
+      {
+        "label": "Hero Health",
+        "value": "21,667"
+      },
+      {
+        "label": "Escort Attack",
+        "value": "369"
+      },
+      {
+        "label": "Escort Defense",
+        "value": "481"
+      },
+      {
+        "label": "Escort Health",
+        "value": "7,222"
+      },
+      {
+        "label": "Infantry Lethality",
+        "value": "+160.50%"
+      },
+      {
+        "label": "Infantry Health",
+        "value": "+160.50%"
+      }
+    ],
+    "conqSkill": {
+      "name": "Mechanic",
+      "desc": "Charles takes good care of Angel and restores a certain amount of health (35% of Max Health) when first under 50% Health while increasing Defense by 30% until the end of battle. This skill can only be triggered once per battle.",
+      "upgrade": ""
+    },
+    "expSkill": {
+      "name": "Shock and Awe",
+      "desc": "Charles knows how to make a roaring entrance worthy of the massive Angel of Justice mech, increasing Defender Squad’s Health by 15%.",
+      "upgrade": ""
+    },
+    "icons": [
+      "https://kingshotdata.com/wp-content/uploads/2026/05/justice-fist.webp",
+      "https://kingshotdata.com/wp-content/uploads/2026/05/mechanic.webp",
+      "https://kingshotdata.com/wp-content/uploads/2026/05/shock-and-awe.webp"
+    ],
+    "local": {
+      "gear": "/img/heroes/Charles/gear_gear.webp",
+      "conqSkill": "/img/heroes/Charles/gear_conqSkill.webp",
+      "expSkill": "/img/heroes/Charles/gear_expSkill.webp"
+    }
+  },
+  "ava": {
+    "gearName": "Chameleos",
+    "gearIcon": null,
+    "stats": [
+      {
+        "label": "Power",
+        "value": "722,250"
+      },
+      {
+        "label": "Hero Attack",
+        "value": "1444"
+      },
+      {
+        "label": "Hero Defense",
+        "value": "1444"
+      },
+      {
+        "label": "Hero Health",
+        "value": "14,445"
+      },
+      {
+        "label": "Cavalry Lethality",
+        "value": "+160.50%"
+      },
+      {
+        "label": "Cavalry Health",
+        "value": "+160.50%"
+      }
+    ],
+    "conqSkill": {
+      "name": "Irradiance",
+      "desc": "Young Ava’s pigment arsenal increases her damage dealt by 25% and reduces the Attack of affected targets by 25%.",
+      "upgrade": "Attack Up: 5% / 10% / 15% / 20% / 25%"
+    },
+    "expSkill": {
+      "name": "Color Storm",
+      "desc": "Ava’s unique color dispatching system increases Rally Squads’ Lethality by 15% when initiating a rally.",
+      "upgrade": "Rally Lethality Up: 5% / 7.5% / 10% / 12.5% / 15%"
+    },
+    "icons": [
+      "https://kingshotdata.com/wp-content/uploads/2026/05/charmelos-1.webp",
+      "https://kingshotdata.com/wp-content/uploads/2026/05/irradiance.webp",
+      "https://kingshotdata.com/wp-content/uploads/2026/05/color-storm.png"
+    ],
+    "local": {
+      "gear": "/img/heroes/Ava/gear_gear.webp",
+      "conqSkill": "/img/heroes/Ava/gear_conqSkill.webp",
+      "expSkill": "/img/heroes/Ava/gear_expSkill.png"
+    }
+  },
+  "wee-woo": {
+    "gearName": "Mortar",
+    "gearIcon": null,
+    "stats": [
+      {
+        "label": "Power",
+        "value": "722,250"
+      },
+      {
+        "label": "Hero Attack",
+        "value": "1752"
+      },
+      {
+        "label": "Hero Defense",
+        "value": "1444"
+      },
+      {
+        "label": "Hero Health",
+        "value": "10833"
+      },
+      {
+        "label": "Archer Lethality",
+        "value": "+160.50%"
+      },
+      {
+        "label": "Archer Health",
+        "value": "+160.50%"
+      }
+    ],
+    "conqSkill": {
+      "name": "Zero Sympathy",
+      "desc": "Truly, Wee & Woo’s knowledge of modern ranged techniques has boosted morale. Wee & Woo also increase the Attack Speeds by 14% for Heroes and Escorts for 5s.",
+      "upgrade": "Attack Speed Up: 6% / 8% / 10% / 12% / 14%"
+    },
+    "expSkill": {
+      "name": "Landmines",
+      "desc": "Smart artillerymen always keep mines in reserve in case of unwelcomed friends. Wee & Woo increase Defender Squads’ Attack by 15%.",
+      "upgrade": "Defender Squads’ Attack Up: 5% / 7.5% / 10% / 12.5% / 15%"
+    },
+    "icons": [
+      "https://kingshotdata.com/wp-content/uploads/2026/05/mortar.webp",
+      "https://kingshotdata.com/wp-content/uploads/2026/05/zero-sympathy.webp",
+      "https://kingshotdata.com/wp-content/uploads/2026/05/landmines.webp"
+    ],
+    "local": {
+      "gear": "/img/heroes/WeeWoo/gear_gear.webp",
+      "conqSkill": "/img/heroes/WeeWoo/gear_conqSkill.webp",
+      "expSkill": "/img/heroes/WeeWoo/gear_expSkill.webp"
+    }
+  },
+  "amane": null,
+  "yeonwoo": null,
+  "fahd": null,
+  "chenko": null,
+  "gordon": null,
+  "diana": null,
+  "howard": null,
+  "quinn": null,
+  "olive": null,
+  "edwin": null,
+  "seth": null,
+  "forrest": null
+}
